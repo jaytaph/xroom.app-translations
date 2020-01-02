@@ -75,7 +75,7 @@ export default {
   },
   videoMenu: {
     hint: 'Toggle menu',
-    expand: 'Expand',
+    expand: 'Vergroot',
     fullscreen: 'Volledig scherm',
     volume: 'Volume ±',
     restore: 'Herstel',
