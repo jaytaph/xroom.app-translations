@@ -44,7 +44,7 @@ export default {
     cannotLoadPlugin: 'Plugin "%s" wordt niet door je browser ondersteund',
     confirmFileSend: 'Wil je dit verzenden?',
     whatIsYourName: 'Kies een nieuwe naam',
-    setVideoVolume: 'Zet de volume voor deze video',
+    setVideoVolume: 'Selecteer het volume voor deze video',
     roomLockedTryKnockText: 'De ruimte is op dit moment gesloten. Je kunt toegang vragen door te "kloppen" op de deur.',
     knockingFailedText: 'Je klop heeft gefaald.',
     doYouWantToKick: 'Wil je deze gebruiker eruit zetten?',
